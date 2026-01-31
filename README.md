@@ -1,5 +1,5 @@
 # portfolio
-IT Professional Portfolio of Paul Sanderson
+IT DevOps Professional Portfolio of Paul B. B. Sanderson
 # next item
 
 # next item
